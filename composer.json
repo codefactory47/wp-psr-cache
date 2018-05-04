@@ -35,7 +35,7 @@
     }
   },
   "require": {
-    "php": "^7.0",
+
     "composer/installers": "~1.0",
     "psr/cache": "*",
     "psr/simple-cache": "*"
